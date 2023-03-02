@@ -1,7 +1,7 @@
 const App = () => {
 	return(
 		<>
-			<h1>Hello Git!!👋</h1>
+			<h1>🐒</h1>
 		</>
 	);
 }
