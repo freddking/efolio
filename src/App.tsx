@@ -1,7 +1,7 @@
 const App = () => {
 	return(
 		<>
-			<h1>Hello Shrek via AWS!!👋</h1>
+			<h1>🐒</h1>
 		</>
 	);
 }
